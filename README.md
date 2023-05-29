@@ -1,2 +1,4 @@
 # alunite-1111
-Blazing fast stable diffusion
+🚀 A Simple and Blazing fast stable diffusion setup on colab (click image)
+
+<a href="[https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb](https://colab.research.google.com/drive/1whLDXDn8OnDzd1K5CWAoZ1IhGBTzizX5)"><img src='https://github.com/alunit3/alunite-1111/raw/main/img/ui.png'>
